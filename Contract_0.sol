@@ -1,5 +1,4 @@
-7    constructor() {
-        randomNumber = 62;
+8        randomNumber = 62;
         message = "Hello from commit 0 - 2025-03-05 06:01:11";
     }
 
